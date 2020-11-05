@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 0
-  controlID: 121
+  controlID: 57
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 122
+  controlID: 58
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 123
+  controlID: 59
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -382,14 +382,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Jaskiniowiec\Desktop\AR_Project
+  m_LastProjectPath: F:\Repos\AugmentedReality
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c360000
-    m_LastClickedID: 13932
-    m_ExpandedIDs: 000000006c3600006e36000070360000723600007436000000ca9a3b
+    m_SelectedIDs: bc3c0000
+    m_LastClickedID: 15548
+    m_ExpandedIDs: 00000000bc3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,7 +417,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c3600006e360000703600007236000074360000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,7 +504,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,7 +564,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 603.4759, y: 265.5, z: 0}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 603.4759, y: 265.5, z: 0}
   m_RenderMode: 0
@@ -612,11 +612,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.5217973, y: 0.011014002, z: -0.0067316787, w: -0.8529861}
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.521791, y: 0.011013868, z: -0.006731597, w: -0.8529757}
+    m_Value: {x: -0.5217973, y: 0.011014003, z: -0.0067316787, w: -0.85298616}
   m_Size:
-    m_Target: 786.2774
+    m_Target: 10
     speed: 2
     m_Value: 786.2774
   m_Ortho:
