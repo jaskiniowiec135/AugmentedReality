@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="500_rewers" size="0.075000 0.038034" />
+    <ImageTarget name="500_awers" size="0.075000 0.037963" />
+    <ImageTarget name="200_rewers" size="0.072000 0.035529" />
+    <ImageTarget name="200_awers" size="0.072000 0.036000" />
+    <ImageTarget name="100_rewers" size="0.069000 0.034269" />
+    <ImageTarget name="100_awers" size="0.069000 0.034269" />
+    <ImageTarget name="50_rewers" size="0.066000 0.032865" />
+    <ImageTarget name="50_awers" size="0.066000 0.033000" />
+    <ImageTarget name="20_rewers" size="0.063000 0.031114" />
+    <ImageTarget name="20_awers" size="0.063000 0.031179" />
+    <ImageTarget name="10_rewers" size="0.060000 0.029755" />
+    <ImageTarget name="10_awers" size="0.060000 0.029571" />
+  </Tracking>
+</QCARConfig>
