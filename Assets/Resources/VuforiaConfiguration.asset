@@ -19,26 +19,25 @@ MonoBehaviour:
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
+    virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    version: 8.5.9
-    eulaAcceptedVersions: '{"Values":["9.4","8.5"]}'
+    version: 9.5.4
+    eulaAcceptedVersions: '{"Values":["9.4","8.5","9.5"]}'
   database:
     disableModelExtraction: 0
   videoBackground:
     numDivisions: 2
     videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
       type: 3}
+    unlitShader: {fileID: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoInitTracker: 0
     autoStartTracker: 0
     arcoreRequirement: 0
     autoImportArcore: 0
-  smartTerrain:
-    autoInitTracker: 0
-    autoStartTracker: 0
+  playmode:
+    mSequencePath: 
+    playModeType: 0
   webcam:
-    deviceNameSetInEditor: 
-    turnOffWebCam: 0
     renderTextureLayer: 30
